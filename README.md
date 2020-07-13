@@ -2,6 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/randsonfranca/)](https://www.linkedin.com/in/randsonfranca)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/randhson)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:handhson@gmail.com)](mailto:handhson@gmail.com)
+[![github Badge](https://img.shields.io/badge/%20-Github-black)](https://github.com/randhson)
 
 ### Hello! Welcome to my profile.
 
