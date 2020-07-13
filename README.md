@@ -1,5 +1,5 @@
 ## Randson Nunes
-[https://twitter.com/randhson]Twitter
+[link]Twitter
 [link]linkedin
 
 ### Hello! Welcome to my profile.
