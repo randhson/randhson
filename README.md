@@ -1,4 +1,12 @@
-### Hi there 👋
+## Randson Nunes
+---------------------------------------------------------
+[link]Twitter
+[link]linkedin
+
+### Hello! Welcome to my profile.
+
+My name is Randson and I'm Web developer.
+- [hearth] Web Technology
 
 <!--
 **randhson/randhson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
