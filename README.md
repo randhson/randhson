@@ -6,8 +6,9 @@
 
 ### Hello! Welcome to my profile.
 
-My name is Randson and I'm Web developer.
+My name is Randson and I'm developer with experience at Fullstack Ruby on Rails.
 + Web Technology
++ Ruby Ecosystem
 
 <!--
 **randhson/randhson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
